@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zachary Hunting Resume</title>
+
+    <style>
+        h1 {
+            font-size: 36px;
+            color: #33485e;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- I built this myself! -->
+
+    <h1>Zachary Hunting</h1>
+
+    <strong>Undergraduate Student</strong>
+
+    <br><br>
+
+    <img src="photo.jpg.jpg" alt="Photo of Zachary Hunting" width="300">
+
+    <ul>
+        <li>
+            <a href="mailto:zhunting@umd.edu">zhunting@umd.edu</a>
+        </li>
+        <li>
+            <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+        </li>
+        <li>
+            <a href="YOUR_X_URL">Twitter</a>
+        </li>
+        <li>
+            <a href="YOUR_GITHUB_URL">GitHub</a>
+        </li>
+    </ul>
+
+    <p>
+        Undergraduate student with experience in customer service, food service,
+        teamwork, and fast-paced work environments. Strong work ethic with
+        experience using Microsoft Word, Excel, Google Docs, and Photoshop.
+        Quick learner with strong problem-solving and communication skills.
+    </p>
+
+    <h2>Experience</h2>
+
+    <h3>Customer Service Specialist</h3>
+    <h4>Chesapeake Beach Waterpark</h4>
+    <h5>June 2020 – September 2022 | Chesapeake Beach, MD</h5>
+
+    <p>
+        Provided customer service and general assistance to guests while
+        helping maintain a safe, clean, and welcoming waterpark environment.
+    </p>
+
+    <ul>
+        <li>Assisted guests with seating, directions, and general park information.</li>
+        <li>Checked bags and ensured safety guidelines were followed.</li>
+        <li>Maintained cleanliness of park areas, including bathrooms and trash removal.</li>
+        <li>Provided friendly and efficient service to enhance the guest experience.</li>
+    </ul>
+
+    <h3>Food Service Worker</h3>
+    <h4>Phelps Concession</h4>
+    <h5>December 2020 – September 2026</h5>
+
+    <p>
+        Prepared food, served customers, maintained kitchen equipment, and
+        completed closing procedures in a fast-paced food service environment.
+    </p>
+
+    <ul>
+        <li>Prepared and fried chicken tenders, fries, and other menu items.</li>
+        <li>Maintained and cleaned fryers and kitchen equipment.</li>
+        <li>Took customer orders and ensured accurate, timely service.</li>
+        <li>Closed workstations and completed end-of-shift cleaning.</li>
+    </ul>
+
+    <h2>Education</h2>
+
+    <h3>Northern High School</h3>
+    <h4>High School Diploma</h4>
+    <h5>Graduated May 2024 | Owings, MD</h5>
+
+    <ul>
+        <li>GPA: 3.8</li>
+        <li>Varsity Ice Hockey — 4 years</li>
+        <li>Theater Program — 4 years</li>
+        <li>Participated in 9 shows</li>
+        <li>Contributed to set building and design</li>
+    </ul>
+
+    <h2>Skills</h2>
+
+    <ul>
+        <li>Multitasking in fast-paced environments</li>
+        <li>Adobe Photoshop experience</li>
+        <li>Microsoft Word</li>
+        <li>Microsoft Excel</li>
+        <li>Google Docs</li>
+        <li>Problem solving and teamwork</li>
+        <li>Quick learner with a strong work ethic</li>
+    </ul>
+
+</body>
+
+</html>
